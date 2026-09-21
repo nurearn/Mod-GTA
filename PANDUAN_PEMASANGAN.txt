@@ -1,0 +1,53 @@
+================================================================================
+                    PANDUAN PEMASANGAN & AKTIVASI XUMUID MOD
+                 Grand Theft Auto: San Andreas The Definitive Edition
+================================================================================
+
+Terima kasih telah membeli Xumuid Mod resmi!
+Ikuti 3 langkah mudah di bawah ini untuk mulai bermain:
+
+--------------------------------------------------------------------------------
+1. CARA PASANG MOD KE FOLDER GAME
+--------------------------------------------------------------------------------
+1. Buka folder instalasi game GTA San Andreas The Definitive Edition kamu.
+   Lokasi default biasanya berada di:
+   C:\Games\Grand Theft Auto San Andreas The Definitive Edition\Gameface\Binaries\Win64\CLEO\
+   
+   (Jika belum ada folder 'CLEO', pastikan CLEO Redux sudah terpasang di game kamu).
+
+2. Copy/pindahkan SEMUA file dari folder ini:
+   - xumuid mod.exe
+   - xumuid mod[fs].js
+   - xumuid_config.ini
+   
+   ke dalam folder CLEO di atas.
+
+--------------------------------------------------------------------------------
+2. CARA AKTIVASI LISENSI RESMI (HANYA 1 DETIK)
+--------------------------------------------------------------------------------
+1. Pastikan komputer/laptop kamu terhubung ke internet saat aktivasi pertama kali.
+2. Jalankan aplikasi "xumuid mod.exe".
+3. Jendela aktivasi lisensi akan otomatis muncul:
+   - Masukkan Kunci Lisensi (License Key) yang kamu dapatkan dari Penjual
+     (Contoh format: XUM-XXXX-XXXX-XXXX).
+   - Klik tombol "AKTIFKAN LISENSI SEKARANG".
+4. Selesai! Lisensi telah resmi aktif permanen untuk komputer kamu.
+5. Setelah aktivasi berhasil, mod ini BISA DIMAINKAN SECARA OFFLINE SELAMANYA 
+   tanpa perlu koneksi internet lagi.
+
+--------------------------------------------------------------------------------
+3. CARA MENGGUNAKAN & MENGUBAH TOMBOL MOD
+--------------------------------------------------------------------------------
+1. Buka game GTA San Andreas Definitive Edition.
+2. Buka "xumuid mod.exe" untuk:
+   - Melihat daftar lengkap tombol cheat/chaos mod.
+   - Mengubah tombol shortcut sesuai keinginan kamu.
+   - Menguji efek langsung ke game dengan tombol "⚡ Test in GTA".
+3. Selamat bersenang-senang!
+
+================================================================================
+Catatan Penting:
+1 Kunci Lisensi hanya berlaku untuk 1 Komputer/PC. Dilarang menyebarluaskan file 
+lisensi ke pihak lain. Jika kamu ganti PC atau instal ulang Windows, hubungi 
+penjual untuk melakukan reset lisensi secara resmi.
+================================================================================
