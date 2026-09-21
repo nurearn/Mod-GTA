@@ -46,8 +46,9 @@ Ikuti 3 langkah mudah di bawah ini untuk mulai bermain:
 3. Selamat bersenang-senang!
 
 ================================================================================
-Catatan Penting:
-1 Kunci Lisensi hanya berlaku untuk 1 Komputer/PC. Dilarang menyebarluaskan file 
-lisensi ke pihak lain. Jika kamu ganti PC atau instal ulang Windows, hubungi 
-penjual untuk melakukan reset lisensi secara resmi.
+Catatan Penting & Bantuan Resmi:
+- 1 Kunci Lisensi hanya berlaku untuk 1 Komputer/PC.
+- Jika kamu ganti PC atau instal ulang Windows, hubungi Penjual untuk reset lisensi
+  secara resmi melalui tombol bantuan di aplikasi "xumuid mod.exe" atau melalui link:
+  👉 Chat Bantuan: https://wa.me/6281563960106?text=Halo%20bang,%20saya%20butuh%20bantuan%20terkait%20lisensi%20Xumuid%20Mod
 ================================================================================
