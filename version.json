@@ -1,0 +1,15 @@
+{
+  "version": "v3.2",
+  "name": "Xumuid Mod Definitive Edition",
+  "releaseDate": "2026-09-27",
+  "downloadUrl": "https://github.com/nurearn/basic-mod-gta",
+  "changelog": [
+    "Memperbaiki crash Fatal Error UE4-Gameface saat transfer kursi mobil penumpang",
+    "Pembersihan referensi invalid new Car(0) saat CJ jalan kaki",
+    "Penambahan 59 lokasi teleport acak di alam terbuka (Los Santos, San Fierro, Las Venturas, Gurun)",
+    "Fitur 100% Anti-Rumah / Reset status interior otomatis saat teleportasi",
+    "Fitur Impor & Ekspor profil konfigurasi hotkey (.ini)",
+    "Tab Log Perubahan (Changelog) terintegrasi langsung di aplikasi",
+    "Fitur Auto Update Notifier dari GitHub & notifikasi di dalam game GTA"
+  ]
+}
